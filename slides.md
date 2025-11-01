@@ -101,7 +101,7 @@ layout: center
 
 ---
 layout: image-right
-image: 960px-Noam_Chomsky_portrait_2017_retouched.jpg
+image: 960px-Noam_Chomsky_portrait_2017_retouched.webp
 ---
 # Noam Chomsky
 
@@ -122,7 +122,7 @@ Independence of
 
 ---
 layout: image-right
-image: chomsky-tree.png
+image: chomsky-tree.webp
 backgroundSize: 70%
 ---
 
@@ -184,7 +184,7 @@ Emily Bender and others - 2021
 
 ---
 layout: image
-image: sam-altman-tweet.png
+image: sam-altman-tweet.webp
 backgroundSize: 50%
 ---
 
@@ -221,7 +221,7 @@ url: 2510.12766.pdf
 
 ---
 layout: image
-image: ex-gen-gram.png
+image: ex-gen-gram.webp
 backgroundSize: 75%
 ---
 <div class="absolute items-center bottom-30px">
@@ -234,7 +234,7 @@ https://arxiv.org/html/2411.10533v2
 
 ---
 layout: image
-image: CS-hierarchy.png
+image: CS-hierarchy.webp
 backgroundSize: 75%
 ---
 
@@ -259,19 +259,19 @@ url: https://morph.smc.org.in/
 
 ---
 layout: image
-image: mlmorph-analysis.png
+image: mlmorph-analysis.webp
 backgroundSize: 80%
 ---
 
 ---
 layout: image
-image: mlmorph-generator.png
+image: mlmorph-generator.webp
 backgroundSize: 80%
 ---
 
 ---
 layout: image
-image: mlmoprh-spellchecker.png
+image: mlmoprh-spellchecker.webp
 backgroundSize: 80%
 ---
 
@@ -346,7 +346,7 @@ layout: center
 
 ---
 layout: image-right
-image: George_Kingsley_Zipf_1917.jpg
+image: George_Kingsley_Zipf_1917.webp
 ---
 # George Kingsley Zipf
 1902 – 1950
@@ -359,7 +359,7 @@ Frequency of occurrence of words Inversely proportional to the rank in this freq
 <div v-click class="mt-15 text-xl color-blue">
 ഒരു ഭാഷയിലെ വാക്കുകളുടെ ആവർത്തനങ്ങളുടെ അവരോഹണക്രമത്തിലുള്ള പട്ടികയിൽ,
 വാക്കിന്റെ സ്ഥാനം,
-അതിന്റെ ആവർത്തനത്തിന് വിപരീതാനുപതത്തിലായിരിക്കും
+അതിന്റേ ആവർത്തനത്തിന് വിപരീതാനുപതത്തിലായിരിക്കും
 </div>
 
 ---
@@ -390,7 +390,7 @@ layout: two-cols
 
 ---
 layout: image
-image: 1365px-Zipf_30wiki_en_labels.png
+image: 1365px-Zipf_30wiki_en_labels.webp
 backgroundSize: 70%
 ---
 
@@ -399,7 +399,7 @@ Zipf's law plot for the first 10 million words in 30 Wikipedias (as of October 2
 -->
 ---
 layout: image
-image: ml-zipfs-law.jpg
+image: ml-zipfs-law.webp
 backgroundSize: 75%
 ---
 
@@ -432,7 +432,7 @@ class: text-center
 
 ---
 layout: image-right
-image: 788px-AAMarkov.jpg
+image: 788px-AAMarkov.webp
 ---
 # Andrey Markov
 4 June 1856 – 20 July 1922
@@ -443,20 +443,20 @@ What happens next depends only on the state of affairs now.
 
 ---
 layout: image
-image: 960px-Chess_game_Staunton_No._6.jpg
+image: 960px-Chess_game_Staunton_No._6.webp
 backgroundSize: contain
 ---
 
 ---
 layout: image
-image: markov-good-morning.jpg
+image: markov-good-morning.webp
 backgroundSize: contain
 ---
 <!-- source  https://www.sitepen.com/blog/exploring-the-creative-possibilities-of-markov-chains-for-text-generation -->
 
 ---
 layout: image
-image: markov-good-morning-2.jpg
+image: markov-good-morning-2.webp
 backgroundSize: contain
 ---
 
@@ -499,7 +499,7 @@ https://www.youtube.com/clip/UgkxfJYLEyYeRCq3pkBOfLimnfqnjY2j3-Ra
 -->
 ---
 layout: image-right
-image: Zellig_Harris_(1909–1992).jpg
+image: Zellig_Harris_(1909–1992).webp
 ---
 # Zellig Harris
 1909 – 1992
@@ -527,13 +527,13 @@ url: https://ig.ft.com/generative-ai/
 
 ---
 layout: image
-image: 1448px-Distributional_semantics.png
+image: 1448px-Distributional_semantics.webp
 backgroundSize: 60%
 ---
 
 ---
 layout: image
-image: 3dplot-500x381.jpg
+image: 3dplot-500x381.webp
 backgroundSize: 60%
 ---
 <!--
@@ -542,7 +542,7 @@ https://corpling.hypotheses.org/495
 
 ---
 layout: image-left
-image: Blog_image1-300x191.png
+image: Blog_image1-300x191.webp
 background-size: contain
 ---
 ## Man + royal = King
@@ -593,19 +593,19 @@ layout: center
 </h2>
 ---
 layout: image
-image: kanji.png
+image: kanji.webp
 ---
 
 ---
 layout: image
-image: attention-paper.png
+image: attention-paper.webp
 backgroundSize: 50%
 ---
 
 
 ---
 layout: image
-image: transformer_self-attention_visualization_3.png
+image: transformer_self-attention_visualization_3.webp
 backgroundSize: 50%
 ---
 
@@ -622,14 +622,14 @@ url: 2005.14165.pdf
 
 ---
 layout: image
-image: english-tokens.png
+image: english-tokens.webp
 backgroundSize: 70%
 ---
 <!-- Source https://huggingface.co/spaces/santhosh/tokenizers-languages -->
 
 ---
 layout: image
-image: malayalam-tokens.png
+image: malayalam-tokens.webp
 backgroundSize: 70%
 ---
 
@@ -638,20 +638,20 @@ backgroundSize: 70%
 <!-- Source https://huggingface.co/spaces/santhosh/tokenizers-languages -->
 ---
 layout: image
-image: top-langs-token-length.png
+image: top-langs-token-length.webp
 ---
 
 <!-- Source https://huggingface.co/spaces/santhosh/tokenizers-languages -->
 
 ---
 layout: image
-image: medium-token-length.png
+image: medium-token-length.webp
 backgroundSize: 70%
 ---
 
 ---
 layout: image
-image: karpathy-tokenization.png
+image: karpathy-tokenization.webp
 backgroundSize: 66%
 ---
 
@@ -664,12 +664,12 @@ url: https://kavyamanohar.com/post/malayalam-morphological-complexity/
 
 ---
 layout: image
-image: tsd1030a.png
+image: tsd1030a.webp
 backgroundSize: 50%
 ---
 ---
 layout: image
-image: TypeTokengrowth-comparison.png
+image: TypeTokengrowth-comparison.webp
 backgroundSize: 60%
 ---
 ---
