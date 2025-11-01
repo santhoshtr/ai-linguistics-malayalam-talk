@@ -1,4 +1,4 @@
-# നിർമിതബുദ്ധി ഭാഷ പഠിക്കുന്നതെങ്ങനെ? 
+# നിർമിതബുദ്ധി ഭാഷ പഠിക്കുന്നതെങ്ങനെ?
 ## How AI learns Malayalam?
 
 A comprehensive presentation exploring the intersection of Artificial Intelligence and the Malayalam language, created for a symposium at Malayalam University.
@@ -25,7 +25,7 @@ This presentation delves into the fascinating world of how Artificial Intelligen
 - **Markov Chains**: Statistical language modeling
 - **Distributional Semantics**: Word embeddings and meaning representation
 - **Transformer Architecture**: Attention mechanisms and modern NLP
-- **Malayalam-specific Challenges**: 
+- **Malayalam-specific Challenges**:
   - Complex morphology
   - Free word order
   - Tokenization issues

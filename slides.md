@@ -1,8 +1,6 @@
 ---
 # try also 'default' to start simple
 theme: default
-# random image from a curated Unsplash collection by Anthony
-# like them? see https://unsplash.com/collections/94734566/slidev
 # background: https://cover.sli.dev
 # some information about your slides (markdown enabled)
 title: Malayalam in the age of Artificial Intelligence
@@ -29,7 +27,8 @@ fonts:
 # നിർമിതബുദ്ധി ഭാഷ പഠിക്കുന്നതെങ്ങനെ?
 ## How AI learns Malayalam?
 
-
+### Santhosh Thottingal
+#### Principal Engineer, Wikimedia Foundation
 <!--
 introduction
 -->
@@ -106,8 +105,8 @@ image: 960px-Noam_Chomsky_portrait_2017_retouched.webp
 # Noam Chomsky
 
 ---
-layout: iframe-right
-url: Chomsky1957.pdf
+layout: image-right
+image: Chomsky1957.webp
 ---
 
 # Syntactic structures (1957)
@@ -168,8 +167,8 @@ layout: fact
 but use far more data than humans and may lack deeper comprehension.
 </v-click>
 ---
-layout: iframe-left
-url: 2021-bender-parrots.pdf
+layout: image-left
+image: 2021-bender-parrots.webp
 ---
 
 # Stochastic Parrots 🦜
@@ -211,8 +210,9 @@ layout: default
 *   [The Guardian: ‘Sycophantic’ AI chatbots tell users what they want to hear, study shows](https://www.theguardian.com/technology/2025/oct/24/sycophantic-ai-chatbots-tell-users-what-they-want-to-hear-study-shows)
 
 ---
-layout: iframe
-url: 2510.12766.pdf
+layout: image
+image: 2510.12766.webp
+backgroundSize: 40%
 ---
 
 <!-- Language Models Model Language -->
@@ -247,8 +247,9 @@ https://arxiv.org/html/2411.10533v2
 -->
 
 ---
-layout: iframe
-url: santhosh-mlmorph-W19-6801.pdf
+layout: image
+image: santhosh-mlmorph-W19-6801.webp
+backgroundSize: 40%
 ---
 
 
@@ -610,14 +611,16 @@ backgroundSize: 50%
 ---
 
 ---
-layout: iframe
-url: language_models_are_unsupervised_multitask_learners.pdf
+layout: image
+image: language_models_are_unsupervised_multitask_learners.webp
+backgroundSize: 50%
 ---
 
 
 ---
-layout: iframe
-url: 2005.14165.pdf
+layout: image
+image: 2005.14165.webp
+backgroundSize: 50%
 ---
 
 ---
