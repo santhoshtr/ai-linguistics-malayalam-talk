@@ -521,10 +521,22 @@ at least to a level sufficient for information access
 </div>
 
 ---
-layout: default
-url: https://ig.ft.com/generative-ai/
+layout: image
+image: ft-work.webp
+backgroundSize: 50%
+---
+
+---
+layout: image
+image: ft-embedding-1.webp
+backgroundSize: 50%
 ---
 <!-- https://ig.ft.com/generative-ai/ -->
+---
+layout: image
+image: ft-embedding-group.webp
+backgroundSize: 50%
+---
 
 ---
 layout: image
@@ -596,6 +608,16 @@ layout: center
 layout: image
 image: kanji.webp
 ---
+---
+layout: image
+image: ft-interest-confusion.webp
+backgroundSize: 50%
+---
+---
+layout: image
+image: ft-interest.webp
+backgroundSize: 50%
+---
 
 ---
 layout: image
@@ -622,6 +644,11 @@ layout: image
 image: 2005.14165.webp
 backgroundSize: 50%
 ---
+
+---
+layout: center
+---
+## Tokenization
 
 ---
 layout: image
