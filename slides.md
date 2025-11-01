@@ -100,13 +100,13 @@ layout: center
 
 ---
 layout: image-right
-image: 960px-Noam_Chomsky_portrait_2017_retouched.webp
+image: /960px-Noam_Chomsky_portrait_2017_retouched.webp
 ---
 # Noam Chomsky
 
 ---
 layout: image-right
-image: Chomsky1957.webp
+image: /Chomsky1957.webp
 ---
 
 # Syntactic structures (1957)
@@ -121,7 +121,7 @@ Independence of
 
 ---
 layout: image-right
-image: chomsky-tree.webp
+image: /chomsky-tree.webp
 backgroundSize: 70%
 ---
 
@@ -168,7 +168,7 @@ but use far more data than humans and may lack deeper comprehension.
 </v-click>
 ---
 layout: image-left
-image: 2021-bender-parrots.webp
+image: /2021-bender-parrots.webp
 ---
 
 # Stochastic Parrots 🦜
@@ -183,7 +183,7 @@ Emily Bender and others - 2021
 
 ---
 layout: image
-image: sam-altman-tweet.webp
+image: /sam-altman-tweet.webp
 backgroundSize: 50%
 ---
 
@@ -211,7 +211,7 @@ layout: default
 
 ---
 layout: image
-image: 2510.12766.webp
+image: /2510.12766.webp
 backgroundSize: 40%
 ---
 
@@ -221,7 +221,7 @@ backgroundSize: 40%
 
 ---
 layout: image
-image: ex-gen-gram.webp
+image: /ex-gen-gram.webp
 backgroundSize: 75%
 ---
 <div class="absolute items-center bottom-30px">
@@ -234,7 +234,7 @@ https://arxiv.org/html/2411.10533v2
 
 ---
 layout: image
-image: CS-hierarchy.webp
+image: /CS-hierarchy.webp
 backgroundSize: 75%
 ---
 
@@ -248,7 +248,7 @@ https://arxiv.org/html/2411.10533v2
 
 ---
 layout: image
-image: santhosh-mlmorph-W19-6801.webp
+image: /santhosh-mlmorph-W19-6801.webp
 backgroundSize: 40%
 ---
 
@@ -260,25 +260,25 @@ url: https://morph.smc.org.in/
 
 ---
 layout: image
-image: mlmorph-analysis.webp
+image: /mlmorph-analysis.webp
 backgroundSize: 80%
 ---
 
 ---
 layout: image
-image: mlmorph-generator.webp
+image: /mlmorph-generator.webp
 backgroundSize: 80%
 ---
 
 ---
 layout: image
-image: mlmoprh-spellchecker.webp
+image: /mlmoprh-spellchecker.webp
 backgroundSize: 80%
 ---
 
 ---
 layout: image-right
-image: sutton.webp
+image: /sutton.webp
 ---
 
 # Richard Sutton
@@ -347,7 +347,7 @@ layout: center
 
 ---
 layout: image-right
-image: George_Kingsley_Zipf_1917.webp
+image: /George_Kingsley_Zipf_1917.webp
 ---
 # George Kingsley Zipf
 1902 – 1950
@@ -391,7 +391,7 @@ layout: two-cols
 
 ---
 layout: image
-image: 1365px-Zipf_30wiki_en_labels.webp
+image: /1365px-Zipf_30wiki_en_labels.webp
 backgroundSize: 70%
 ---
 
@@ -400,7 +400,7 @@ Zipf's law plot for the first 10 million words in 30 Wikipedias (as of October 2
 -->
 ---
 layout: image
-image: ml-zipfs-law.webp
+image: /ml-zipfs-law.webp
 backgroundSize: 75%
 ---
 
@@ -433,7 +433,7 @@ class: text-center
 
 ---
 layout: image-right
-image: 788px-AAMarkov.webp
+image: /788px-AAMarkov.webp
 ---
 # Andrey Markov
 4 June 1856 – 20 July 1922
@@ -444,20 +444,20 @@ What happens next depends only on the state of affairs now.
 
 ---
 layout: image
-image: 960px-Chess_game_Staunton_No._6.webp
+image: /960px-Chess_game_Staunton_No._6.webp
 backgroundSize: contain
 ---
 
 ---
 layout: image
-image: markov-good-morning.webp
+image: /markov-good-morning.webp
 backgroundSize: contain
 ---
 <!-- source  https://www.sitepen.com/blog/exploring-the-creative-possibilities-of-markov-chains-for-text-generation -->
 
 ---
 layout: image
-image: markov-good-morning-2.webp
+image: /markov-good-morning-2.webp
 backgroundSize: contain
 ---
 
@@ -500,7 +500,7 @@ https://www.youtube.com/clip/UgkxfJYLEyYeRCq3pkBOfLimnfqnjY2j3-Ra
 -->
 ---
 layout: image-right
-image: Zellig_Harris_(1909–1992).webp
+image: /Zellig_Harris_(1909–1992).webp
 ---
 # Zellig Harris
 1909 – 1992
@@ -522,31 +522,31 @@ at least to a level sufficient for information access
 
 ---
 layout: image
-image: ft-work.webp
+image: /ft-work.webp
 backgroundSize: 50%
 ---
 
 ---
 layout: image
-image: ft-embedding-1.webp
+image: /ft-embedding-1.webp
 backgroundSize: 50%
 ---
 <!-- https://ig.ft.com/generative-ai/ -->
 ---
 layout: image
-image: ft-embedding-group.webp
+image: /ft-embedding-group.webp
 backgroundSize: 50%
 ---
 
 ---
 layout: image
-image: 1448px-Distributional_semantics.webp
+image: /1448px-Distributional_semantics.webp
 backgroundSize: 60%
 ---
 
 ---
 layout: image
-image: 3dplot-500x381.webp
+image: /3dplot-500x381.webp
 backgroundSize: 60%
 ---
 <!--
@@ -555,7 +555,7 @@ https://corpling.hypotheses.org/495
 
 ---
 layout: image-left
-image: Blog_image1-300x191.webp
+image: /Blog_image1-300x191.webp
 background-size: contain
 ---
 ## Man + royal = King
@@ -606,42 +606,42 @@ layout: center
 </h2>
 ---
 layout: image
-image: kanji.webp
+image: /kanji.webp
 ---
 ---
 layout: image
-image: ft-interest-confusion.webp
+image: /ft-interest-confusion.webp
 backgroundSize: 50%
 ---
 ---
 layout: image
-image: ft-interest.webp
-backgroundSize: 50%
----
-
----
-layout: image
-image: attention-paper.webp
-backgroundSize: 50%
----
-
-
----
-layout: image
-image: transformer_self-attention_visualization_3.webp
+image: /ft-interest.webp
 backgroundSize: 50%
 ---
 
 ---
 layout: image
-image: language_models_are_unsupervised_multitask_learners.webp
+image: /attention-paper.webp
 backgroundSize: 50%
 ---
 
 
 ---
 layout: image
-image: 2005.14165.webp
+image: /transformer_self-attention_visualization_3.webp
+backgroundSize: 50%
+---
+
+---
+layout: image
+image: /language_models_are_unsupervised_multitask_learners.webp
+backgroundSize: 50%
+---
+
+
+---
+layout: image
+image: /2005.14165.webp
 backgroundSize: 50%
 ---
 
@@ -652,14 +652,14 @@ layout: center
 
 ---
 layout: image
-image: english-tokens.webp
+image: /english-tokens.webp
 backgroundSize: 70%
 ---
 <!-- Source https://huggingface.co/spaces/santhosh/tokenizers-languages -->
 
 ---
 layout: image
-image: malayalam-tokens.webp
+image: /malayalam-tokens.webp
 backgroundSize: 70%
 ---
 
@@ -668,20 +668,20 @@ backgroundSize: 70%
 <!-- Source https://huggingface.co/spaces/santhosh/tokenizers-languages -->
 ---
 layout: image
-image: top-langs-token-length.webp
+image: /top-langs-token-length.webp
 ---
 
 <!-- Source https://huggingface.co/spaces/santhosh/tokenizers-languages -->
 
 ---
 layout: image
-image: medium-token-length.webp
+image: /medium-token-length.webp
 backgroundSize: 70%
 ---
 
 ---
 layout: image
-image: karpathy-tokenization.webp
+image: /karpathy-tokenization.webp
 backgroundSize: 66%
 ---
 
@@ -694,12 +694,12 @@ url: https://kavyamanohar.com/post/malayalam-morphological-complexity/
 
 ---
 layout: image
-image: tsd1030a.webp
+image: /tsd1030a.webp
 backgroundSize: 50%
 ---
 ---
 layout: image
-image: TypeTokengrowth-comparison.webp
+image: /TypeTokengrowth-comparison.webp
 backgroundSize: 60%
 ---
 ---
