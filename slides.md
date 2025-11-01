@@ -101,7 +101,7 @@ layout: center
 
 ---
 layout: image-right
-image: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Noam_Chomsky_portrait_2017_retouched.jpg/960px-Noam_Chomsky_portrait_2017_retouched.jpg
+image: 960px-Noam_Chomsky_portrait_2017_retouched.jpg
 ---
 # Noam Chomsky
 
@@ -212,7 +212,7 @@ layout: default
 
 ---
 layout: iframe
-url: https://arxiv.org/pdf/2510.12766
+url: 2510.12766.pdf
 ---
 
 <!-- Language Models Model Language -->
@@ -346,7 +346,7 @@ layout: center
 
 ---
 layout: image-right
-image: https://upload.wikimedia.org/wikipedia/commons/c/c6/George_Kingsley_Zipf_1917.jpg
+image: George_Kingsley_Zipf_1917.jpg
 ---
 # George Kingsley Zipf
 1902 – 1950
@@ -390,7 +390,7 @@ layout: two-cols
 
 ---
 layout: image
-image: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Zipf_30wiki_en_labels.png/1365px-Zipf_30wiki_en_labels.png
+image: 1365px-Zipf_30wiki_en_labels.png
 backgroundSize: 70%
 ---
 
@@ -432,7 +432,7 @@ class: text-center
 
 ---
 layout: image-right
-image: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/AAMarkov.jpg/788px-AAMarkov.jpg
+image: 788px-AAMarkov.jpg
 ---
 # Andrey Markov
 4 June 1856 – 20 July 1922
@@ -443,7 +443,7 @@ What happens next depends only on the state of affairs now.
 
 ---
 layout: image
-image: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Chess_game_Staunton_No._6.jpg/960px-Chess_game_Staunton_No._6.jpg?20240420232805
+image: 960px-Chess_game_Staunton_No._6.jpg
 backgroundSize: contain
 ---
 
@@ -499,7 +499,7 @@ https://www.youtube.com/clip/UgkxfJYLEyYeRCq3pkBOfLimnfqnjY2j3-Ra
 -->
 ---
 layout: image-right
-image: https://upload.wikimedia.org/wikipedia/en/d/d9/Zellig_Harris_%281909%E2%80%931992%29.jpg
+image: Zellig_Harris_(1909–1992).jpg
 ---
 # Zellig Harris
 1909 – 1992
@@ -527,13 +527,13 @@ url: https://ig.ft.com/generative-ai/
 
 ---
 layout: image
-image: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Distributional_semantics.png/1448px-Distributional_semantics.png
+image: 1448px-Distributional_semantics.png
 backgroundSize: 60%
 ---
 
 ---
 layout: image
-image: https://corpling.hypotheses.org/files/2018/04/3dplot-500x381.jpg
+image: 3dplot-500x381.jpg
 backgroundSize: 60%
 ---
 <!--
@@ -542,7 +542,7 @@ https://corpling.hypotheses.org/495
 
 ---
 layout: image-left
-image: https://blogs.ischool.berkeley.edu/w231/files/2021/05/Blog_image1-300x191.png
+image: Blog_image1-300x191.png
 background-size: contain
 ---
 ## Man + royal = King
@@ -611,13 +611,13 @@ backgroundSize: 50%
 
 ---
 layout: iframe
-url: https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf
+url: language_models_are_unsupervised_multitask_learners.pdf
 ---
 
 
 ---
 layout: iframe
-url: https://arxiv.org/pdf/2005.14165
+url: 2005.14165.pdf
 ---
 
 ---
@@ -664,12 +664,12 @@ url: https://kavyamanohar.com/post/malayalam-morphological-complexity/
 
 ---
 layout: image
-image: https://kavyamanohar.com/img/malayalam-complexity-analysis/tsd1030a.png
+image: tsd1030a.png
 backgroundSize: 50%
 ---
 ---
 layout: image
-image: https://kavyamanohar.com/img/malayalam-complexity-analysis/TypeTokengrowth-comparison.png
+image: TypeTokengrowth-comparison.png
 backgroundSize: 60%
 ---
 ---
