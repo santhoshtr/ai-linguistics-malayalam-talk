@@ -188,12 +188,6 @@ backgroundSize: 50%
 ---
 
 ---
-layout: statement
----
-
-# Language != Intelligence
-
----
 layout: default
 ---
 
