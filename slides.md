@@ -33,28 +33,8 @@ fonts:
 <!--
 introduction
 -->
-
 ---
-layout: two-cols
----
-
-### അപരാഹ്നത്തിന്റെ അനന്തപഥങ്ങളിൽ ആകാശനീലിമയിൽ അവൻ നടന്നകന്നു.
-### ഭീമനും യുധിഷ്ഠിരനും ബീഡി വലിച്ചു.
-### സീതയുടെ മാറുപിളർന്ന് രക്തം കുടിച്ചു ദുര്യോധനൻ.
-### ഗുരുവായൂരപ്പന് ജലദോഷമായിരുന്നു അന്ന്.
-### അമ്പലത്തിന്റെ അകാൽവിളക്കുകൾ തെളിയുന്ന സന്ധ്യയിൽ അവൾ അവനോട് ചോദിച്ചു,
-### "ഇനിയും നീ ഇതുവഴി വരില്ലേ, ആനകളെയും തെളിച്ചുകൊണ്ട്?"
-
-::right::
-
-<Youtube id="q8uvDnthq94?start=383" width="500" height="300"/>
-
-<!--
-https://www.youtube.com/clip/UgkxfJYLEyYeRCq3pkBOfLimnfqnjY2j3-Ra
--->
-
----
-layout:default
+layout: default
 ---
 
 # Language
@@ -91,50 +71,128 @@ h3 {
 </style>
 
 
+
+---
+layout: two-cols
+---
+
+### അപരാഹ്നത്തിന്റെ അനന്തപഥങ്ങളിൽ ആകാശനീലിമയിൽ അവൻ നടന്നകന്നു.
+### ഭീമനും യുധിഷ്ഠിരനും ബീഡി വലിച്ചു.
+### സീതയുടെ മാറുപിളർന്ന് രക്തം കുടിച്ചു ദുര്യോധനൻ.
+### ഗുരുവായൂരപ്പന് ജലദോഷമായിരുന്നു അന്ന്.
+### അമ്പലത്തിന്റെ അകാൽവിളക്കുകൾ തെളിയുന്ന സന്ധ്യയിൽ അവൾ അവനോട് ചോദിച്ചു,
+### "ഇനിയും നീ ഇതുവഴി വരില്ലേ, ആനകളെയും തെളിച്ചുകൊണ്ട്?"
+
+::right::
+
+<Youtube id="q8uvDnthq94?start=383" width="500" height="300"/>
+
+<!--
+https://www.youtube.com/clip/UgkxfJYLEyYeRCq3pkBOfLimnfqnjY2j3-Ra
+-->
+
 ---
 layout: center
 ---
 
-# Language
+### ഭാഗം 1
 
-* A cognitive phenomenon
-* A symbolic system
-* As something that can be modeled and imitated by a computer
-* A social phenomenon
+# ഭാഷ എങ്ങനെ പഠിക്കാം?
+
+---
+layout: image-right
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Noam_Chomsky_portrait_2017_retouched.jpg/960px-Noam_Chomsky_portrait_2017_retouched.jpg
+---
+# Noam Chomsky
+
+---
+layout: iframe-right
+url: Chomsky1957.pdf
+---
+
+# Syntactic structures (1957)
+<div class="color-blue">
+"Colorless green ideas sleep furiously"
+</div>
+An example of a grammatically correct sentence that has no discernible meaning
+
+Independence of
+- syntax (the study of sentence structures)
+- semantics (the study of meaning)
+
+---
+layout: image-right
+image: chomsky-tree.png
+backgroundSize: 70%
+---
+
+# Noam Chomsky
+
+## Syntactic structures (1957)
+
+<v-clicks class="color-blue">
+
+* grammar is autonomous and independent of meaning.
+* probabilistic models give no particular insight into some of the basic problems of syntactic structure.
+</v-clicks>
+
+---
+layout: two-cols
+---
+
+# Chomsky's Theory
+
+* Humans have innate "Universal Grammar" - built-in language rules we're born with
+* Language cannot be learned from examples alone due to "poverty of the stimulus"
+* Children learn language from limited input (few million words by age 5)
+* Language requires understanding deep structural rules, not just pattern matching
+
+::right::
+
+# Large Language Models
+
+* Learn language entirely from statistical patterns in data - no built-in grammar rules
+* Require massive training data (billions to trillions of words)
+* Generate grammatically correct and coherent text through pattern prediction alone
+* Challenge: May lack true understanding despite producing fluent language-machinery
 
 
-<!--
-You can have `style` tag in markdown to override the style for the current page.
-Learn more: https://sli.dev/features/slide-scope-style
--->
-<!--
-Here is another comment.
--->
+---
+layout: fact
+---
 
+
+## LLMs demonstrate that powerful statistical learning from data can produce sophisticated language without innate grammar
+
+<v-click class="color-blue">
+but use far more data than humans and may lack deeper comprehension.
+</v-click>
+---
+layout: iframe-left
+url: 2021-bender-parrots.pdf
+---
+
+# Stochastic Parrots 🦜
+Emily Bender and others - 2021
+
+<v-clicks class="color-blue">
+
+* **No true understanding**: <small>LLMs are systems for stitching together linguistic forms from vast training data, without any reference to context or meaning - it's the human makes sense of it, not the computer</small>
+* **Form without meaning**: <small>For LLMs, words may correspond only to other words/patterns fed into their training data, whereas in human minds, words and language correspond to things one has experienced</small>
+* **Evidence from failures**: <small>The tendency of LLMs to pass off false information as fact (hallucinations) is held as support that they can't connect words to a comprehension of the world, as humans do</small>
+</v-clicks>
+
+---
+layout: image
+image: sam-altman-tweet.png
+backgroundSize: 50%
+---
 
 ---
 layout: statement
 ---
 
 # Language != Intelligence
-
----
-layout: iframe
-url: http://www.incompleteideas.net/IncIdeas/BitterLesson.html
----
-
----
-layout: image-right
-image: sutton.webp
----
-
-# Richart Sutton
-
----
-layout: full
----
-
-<Youtube width=900 height=600 id="21EYKqUsPfg"/>
 
 ---
 layout: default
@@ -151,26 +209,140 @@ layout: default
 *   [CNN: Parents of 16-year-old sue OpenAI, claiming ChatGPT advised on his suicide](https://www.cnn.com/2025/08/26/tech/openai-chatgpt-teen-suicide-lawsuit)
 *   [Financial Times: The ‘hallucinations’ that haunt AI: why chatbots struggle to tell the truth](https://www.ft.com/content/7a4e7eae-f004-486a-987f-4a2e4dbd34fb) ([Archived Version](https://archive.is/P1Wpc))
 *   [The Guardian: ‘Sycophantic’ AI chatbots tell users what they want to hear, study shows](https://www.theguardian.com/technology/2025/oct/24/sycophantic-ai-chatbots-tell-users-what-they-want-to-hear-study-shows)
+
 ---
 layout: iframe
 url: https://arxiv.org/pdf/2510.12766
 ---
 
+<!-- Language Models Model Language -->
+
+
+
 ---
-layout: iframe
-url: file:///home/santhosh/Downloads/piantadosi_24_Modern-lang.8.pdf
+layout: image
+image: ex-gen-gram.png
+backgroundSize: 75%
 ---
+<div class="absolute items-center bottom-30px">
+Example of a simple context-free generative grammar and derived sentence, based on a corpus
+</div>
+
+<!-- On the Compatibility of Generative AI and Generative Linguistics
+https://arxiv.org/html/2411.10533v2
+-->
+
+---
+layout: image
+image: CS-hierarchy.png
+backgroundSize: 75%
+---
+
+<div class="absolute items-center bottom-30px">
+Chomsky-Schützenberger hierarchy
+</div>
+
+<!-- On the Compatibility of Generative AI and Generative Linguistics
+https://arxiv.org/html/2411.10533v2
+-->
 
 ---
 layout: iframe
-url: https://platform.openai.com/tokenizer
+url: santhosh-mlmorph-W19-6801.pdf
+---
+
+
+---
+layout : iframe
+url: https://morph.smc.org.in/
 ---
 
 ---
 layout: image
-image: karpathy-tokenization.png
-backgroundSize: 50%
+image: mlmorph-analysis.png
+backgroundSize: 80%
 ---
+
+---
+layout: image
+image: mlmorph-generator.png
+backgroundSize: 80%
+---
+
+---
+layout: image
+image: mlmoprh-spellchecker.png
+backgroundSize: 80%
+---
+
+---
+layout: image-right
+image: sutton.webp
+---
+
+# Richard Sutton
+
+Winner of 2024 Turing Award ("Nobel Prize of Computing,") for Reinforcement Learning
+
+<!--
+Richard Sutton is a Canadian computer scientist known for his pioneering work in reinforcement learning, a branch of AI that involves agents learning from interaction and consequences. He is a professor at the University of Alberta and was awarded the 2024 Turing Award for his foundational contributions to the field. Sutton developed influential algorithms like temporal-difference learning and policy-gradient methods, which are used in machine learning and as models for natural learning in psychology and neuroscience
+-->
+---
+layout: iframe-left
+url: http://www.incompleteideas.net/IncIdeas/BitterLesson.html
+---
+<q  class="color-orange">
+General methods that leverage computational power will outperform more complex systems that integrate domain-specific human knowledge
+</q>
+
+because they take better advantage of Moore's law
+
+<v-clicks class="color-blue">
+
+* Stop trying to understand how intelligence works
+* Stop encoding domain knowledge (whether innate grammar or grounded meaning)
+* Just scale computation and learning
+</v-clicks>
+
+<!--
+Core argument: AI researchers have often tried to build knowledge into their agents, which helps in the short term and is personally satisfying to the researcher, but in the long run it plateaus and even inhibits further progress, and breakthrough progress eventually arrives by an opposing approach based on scaling computation by search and learning
+
+-->
+
+---
+layout: default
+---
+
+# കഥ ഇതുവരെ
+
+<v-clicks class="color-blue">
+
+* Chomsky: Build in innate linguistic structure
+* Bender: LLMs lack grounded meaning and understanding
+* Sutton: None of that matters - just add more compute
+</v-clicks>
+
+---
+layout: two-cols
+---
+
+# Sutton - October 2025
+
+* LLMs are dead end
+* Need world model
+* Text is not enough
+
+::right::
+<Youtube width=500 height=300 id="21EYKqUsPfg"/>
+
+
+---
+layout: center
+---
+
+### ഭാഗം 2
+
+# എഴുതിയ ഭാഷയിൽ നിന്ന് എന്തു പഠിക്കാം?
 
 ---
 layout: image-right
@@ -188,7 +360,7 @@ Frequency of occurrence of words Inversely proportional to the rank in this freq
 ഒരു ഭാഷയിലെ വാക്കുകളുടെ ആവർത്തനങ്ങളുടെ അവരോഹണക്രമത്തിലുള്ള പട്ടികയിൽ,
 വാക്കിന്റെ സ്ഥാനം,
 അതിന്റെ ആവർത്തനത്തിന് വിപരീതാനുപതത്തിലായിരിക്കും
-    </div>
+</div>
 
 ---
 layout: two-cols
@@ -236,44 +408,6 @@ backgroundSize: 75%
 <div class="absolute items-center bottom-30px">
 From 205k unique sentences from SMC corpus. Prepared by Kavya Manohar
 </div>
-
----
-layout: image-right
-image: https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/C.E._Shannon._Tekniska_museet_43069_%28cropped%29.jpg/960px-C.E._Shannon._Tekniska_museet_43069_%28cropped%29.jpg
----
-# Claude Shannon
-1916 – 2001
-
----
-layout: default
----
-
-```
-(1) THE ROOM WAS NOT VERY LIGHT A SMALL OBLONG
-(2) - - - - ROO - - - - - - NOT-V- - - - -I- - - - - - SM- - - - OBL- - - -
-(1) READING LAMP ON THE DESK SHED GLOW ON
-(2) REA- - - - - - - - - - -O- - - - - - D- - - -SHED-GLO - -O - -
-(1) POLISHED WOOD BUT LESS ON THE SHABBY RED CARPET
-(2) P-L-S- - - - - - O - - - BU- -L-S- -O- - - - - - SH- - - - - RE- -C- - - - -
-```
-
-<em class="mt-5">
-In his 1951 paper “Prediction and Entropy of Printed English,” Claude Shannon reported the results as follows, listing the target passage—clipped from Raymond Chandler’s 1936 detective story “Pickup on Noon Street”—above his wife’s guesses, indicating a correct guess with a bespoke system of dashes, underlining, and ellipses.
-</em>
-
-<style>
-code {
- font-size: 1.5em;
-}
-</style>
-
-<!--
-https://hedgehogreview.com/issues/markets-and-the-good/articles/language-machinery
-
-89/129 അക്ഷരങ്ങളും കൃത്യമായി.
-69% കൃത്യത.
-
--->
 
 ---
 layout: iframe
@@ -463,10 +597,125 @@ image: kanji.png
 ---
 
 ---
+layout: image
+image: attention-paper.png
+backgroundSize: 50%
+---
+
+
+---
+layout: image
+image: transformer_self-attention_visualization_3.png
+backgroundSize: 50%
+---
+
+---
+layout: iframe
+url: https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf
+---
+
+
+---
+layout: iframe
+url: https://arxiv.org/pdf/2005.14165
+---
+
+---
+layout: image
+image: english-tokens.png
+backgroundSize: 70%
+---
+<!-- Source https://huggingface.co/spaces/santhosh/tokenizers-languages -->
+
+---
+layout: image
+image: malayalam-tokens.png
+backgroundSize: 70%
+---
+
+
+
+<!-- Source https://huggingface.co/spaces/santhosh/tokenizers-languages -->
+---
+layout: image
+image: top-langs-token-length.png
+---
+
+<!-- Source https://huggingface.co/spaces/santhosh/tokenizers-languages -->
+
+---
+layout: image
+image: medium-token-length.png
+backgroundSize: 70%
+---
+
+---
+layout: image
+image: karpathy-tokenization.png
+backgroundSize: 66%
+---
+
+
+---
+layout: iframe
+url: https://kavyamanohar.com/post/malayalam-morphological-complexity/
+---
+
+
+---
+layout: image
+image: https://kavyamanohar.com/img/malayalam-complexity-analysis/tsd1030a.png
+backgroundSize: 50%
+---
+---
+layout: image
+image: https://kavyamanohar.com/img/malayalam-complexity-analysis/TypeTokengrowth-comparison.png
+backgroundSize: 60%
+---
+---
+layout: two-cols
+---
+
+# English Word Order
+
+## Subject-Verb-Object
+
+* The boy is reading a book
+
+::right::
+
+# മലയാളം - Free Word Order
+
+* രാമൻ രാവണനെ കൊന്നു
+
+* രാവണനെ രാമൻ കൊന്നു
+
+* കൊന്നു രാവണനെ രാമൻ
+
+* കൊന്നു രാമൻ രാവണനെ
+
+---
 layout: center
 ---
-# Learn More
 
-[Documentation](https://sli.dev) · [GitHub](https://github.com/slidevjs/slidev) · [Showcases](https://sli.dev/resources/showcases)
+# Training data
 
-<PoweredBySlidev mt-10 />
+## 93% of ChatGPT-3’s data set was in English
+
+### 0.00165% was in Malayalam
+
+<!--
+https://github.com/openai/gpt-3/blob/master/dataset_statistics/languages_by_word_count.csv
+-->
+
+---
+layout: center
+---
+
+#  ഇന്റർനെറ്റിലുള്ള മലയാളം ഉള്ളടക്കങ്ങളുടെ സ്വഭാവം എന്താണ്?
+
+---
+layout: center
+---
+
+# നന്ദി
