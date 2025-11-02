@@ -174,12 +174,15 @@ image: /2021-bender-parrots.webp
 # Stochastic Parrots 🦜
 Emily Bender and others - 2021
 
-<v-clicks class="color-blue">
+<div class="color-blue text-xl">
+തത്തമ്മേ പൂച്ച പൂച്ച!
+</div>
 
+<!--
 * **No true understanding**: <small>LLMs are systems for stitching together linguistic forms from vast training data, without any reference to context or meaning - it's the human makes sense of it, not the computer</small>
 * **Form without meaning**: <small>For LLMs, words may correspond only to other words/patterns fed into their training data, whereas in human minds, words and language correspond to things one has experienced</small>
 * **Evidence from failures**: <small>The tendency of LLMs to pass off false information as fact (hallucinations) is held as support that they can't connect words to a comprehension of the world, as humans do</small>
-</v-clicks>
+-->
 
 ---
 layout: image
