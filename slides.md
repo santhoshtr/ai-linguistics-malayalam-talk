@@ -283,9 +283,14 @@ Winner of 2024 Turing Award ("Nobel Prize of Computing,") for Reinforcement Lear
 Richard Sutton is a Canadian computer scientist known for his pioneering work in reinforcement learning, a branch of AI that involves agents learning from interaction and consequences. He is a professor at the University of Alberta and was awarded the 2024 Turing Award for his foundational contributions to the field. Sutton developed influential algorithms like temporal-difference learning and policy-gradient methods, which are used in machine learning and as models for natural learning in psychology and neuroscience
 -->
 ---
-layout: iframe-left
-url: http://www.incompleteideas.net/IncIdeas/BitterLesson.html
+layout: image-left
+image: /bitter-lesson.webp
+backgroundSize: 95%
 ---
+
+
+# Bitter Lesson
+
 <q  class="color-orange">
 General methods that leverage computational power will outperform more complex systems that integrate domain-specific human knowledge
 </q>
